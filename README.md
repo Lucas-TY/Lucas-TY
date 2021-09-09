@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lucas-TY&hide=stars,contribs&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-TYb&theme=dark&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-TY&theme=dark&layout=compact)
